@@ -1,0 +1,68 @@
+[0m[0K]0;:/c/Users/D352.CZU/Documents/R_GIS[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0m[0K
+$[0K[3G[?25h[?25l$ git remote add origin https://github.com/ibb4u2006/r_gis.git[0K[?25h[?25l
+[0K[?25hfatal: not a git repository (or any of the parent directories): .git[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/D352.CZU/Documents/R_GIS/.git/[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25ht[0K[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31mR_GIS.Rproj[0m[0K
+        [0;31mdata/[0m[0K
+        [0;31mprcp.R[0m[0K
+[0K
+nothing added to commit but untracked files present (use "git add" to track[0K)
+[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25herror: open(".Rproj.user/F600286/console06/75F760D3"): Permission denied[0K[?25l
+error: unable to index file .Rproj.user/F600286/console06/75F760D3[0K
+fatal: adding files failed[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git add[0K[11G[?25h[?25l$ git add R[0K[?25h_[0KG[0KI[0KS[0K.[0KR[0Kp[0Kr[0Ko[0Kj[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add d[0K[?25ha[0Kt[0Ka[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add p[0K[?25hr[0Kp[0K[?25l$ git add pr[0K[?25hc[0Kp[0K.[0KR[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0K[?25lu[0K[11G[?25h[12G[?25l$ git status[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Changes to be committed:[0K
+  (use "git rm --cached <file>..." to unstage)[0K
+[0K
+        [0;32mnew file:   R_GIS.Rproj[0m[0K
+        [0;32mnew file:   data/NLD_adm0.cpg[0m[0K
+        [0;32mnew file:   data/NLD_adm0.csv[0m[0K
+        [0;32mnew file:   data/NLD_adm0.dbf[0m[0K
+        [0;32mnew file:   data/NLD_adm0.prj[0m[0K
+        [0;32mnew file:   data/NLD_adm0.shp[0m[0K
+        [0;32mnew file:   data/NLD_adm0.shx[0m[0K
+        [0;32mnew file:   data/gpm_nl.rdata[0m[0K
+        [0;32mnew file:   prcp.R[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25hR[0Kp[0Kr[0Ko[0Kj[0K.[0Ku[0Ks[0Ke[0Kr[0K/[0K
