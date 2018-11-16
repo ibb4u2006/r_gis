@@ -65,4 +65,199 @@ Untracked files:[0K
 [0K
 [0K[?25h[?25l
 [0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25hR[0Kp[0Kr[0Ko[0Kj[0K.[0Ku[0Ks[0Ke[0Kr[0K/[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25hR[0Kp[0Kr[0Ko[0Kj[0K.[0Ku[0Ks[0Ke[0Kr[0K/[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/F600286/sources/prop/A9[0K5[?25l
+5058F.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/F600286/sources/prop/IN[0KD
+EX.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/F600286/sources/s-F31D5[0K2
+5C/6C9688CE.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/F600286/sources/s-F31D5[0K2
+5C/6C9688CE-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Changes to be committed:[0K
+  (use "git rm --cached <file>..." to unstage)[0K
+[0K
+        [0;32mnew file:   .Rproj.user/F600286/console06/75F760D3[0m[0K
+        [0;32mnew file:   .Rproj.user/F600286/console06/INDEX001[0m[0K
+        [0;32mnew file:   .Rproj.user/F600286/sources/prop/A955058F[0m[0K
+        [0;32mnew file:   .Rproj.user/F600286/sources/prop/INDEX[0m[0K
+        [0;32mnew file:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE[0m[0K
+        [0;32mnew file:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE-content[0Ks
+[0m[0K
+        [0;32mnew file:   .Rproj.user/F600286/sources/s-F31D525C/lock_file[0m[0K[9G[?25h[?25l
+        [0;32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[0m[0K
+        [0;32mnew file:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;32mnew file:   R_GIS.Rproj[0m[0K
+        [0;32mnew file:   data/NLD_adm0.cpg[0m[0K
+        [0;32mnew file:   data/NLD_adm0.csv[0m[0K
+        [0;32mnew file:   data/NLD_adm0.dbf[0m[0K
+        [0;32mnew file:   data/NLD_adm0.prj[0m[0K
+        [0;32mnew file:   data/NLD_adm0.shp[0m[0K
+        [0;32mnew file:   data/NLD_adm0.shx[0m[0K
+        [0;32mnew file:   data/gpm_nl.rdata[0m[0K
+        [0;32mnew file:   prcp.R[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/F600286/console06/75F760D3[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K[15G[?25h[?25l
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[8G[7G[6G[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "m"[0K[19G[?25h[?25l$ git commit -m "mo"[0K[20G[?25h[?25l$ git commit -m "mon"[0K[21G[?25h[?25l$ git commit -m "mont"[0K[22G[?25h[?25l$ git commit -m "month"[0K[23G[?25h[?25l$ git commit -m "monthl"[0K[24G[?25h[?25l$ git commit -m "monthly"[0K[25G[?25h[?25l$ git commit -m "monthly "[0K[26G[?25h[?25l$ git commit -m "monthly m"[0K[27G[?25h[?25l$ git commit -m "monthly me"[0K[28G[?25h[?25l$ git commit -m "monthly mea"[0K[29G[?25h[?25l$ git commit -m "monthly mean"[0K[30G[?25h[?25l$ git commit -m "monthly mean "[0K[31G[?25h[?25l$ git commit -m "monthly mean a"[0K[32G[?25h[?25l$ git commit -m "monthly mean an"[0K[33G[?25h[?25l$ git commit -m "monthly mean and"[0K[34G[?25h[?25l$ git commit -m "monthly mean and "[0K[35G[?25h[?25l$ git commit -m "monthly mean and o"[0K[36G[?25h[?25l$ git commit -m "monthly mean and on"[0K[37G[?25h[?25l$ git commit -m "monthly mean and one"[0K[38G[?25h[?25l$ git commit -m "monthly mean and one "[0K[39G[?25h[?25l$ git commit -m "monthly mean and one d"[0K[40G[?25h[?25l$ git commit -m "monthly mean and one da"[0K[41G[?25h[?25l$ git commit -m "monthly mean and one day"[0K[42G[?25h[?25l$ git commit -m "monthly mean and one day "[0K[43G[?25h[?25l$ git commit -m "monthly mean and one day p"[0K[44G[?25h[?25l$ git commit -m "monthly mean and one day pr"[0K[45G[?25h[?25l$ git commit -m "monthly mean and one day pre"[0K[46G[?25h[?25l$ git commit -m "monthly mean and one day prec"[0K[47G[?25h[?25l$ git commit -m "monthly mean and one day preci"[0K[48G[?25h[?25l$ git commit -m "monthly mean and one day precip"[0K[49G[?25h[?25l$ git commit -m "monthly mean and one day precipi"[0K[50G[?25h[?25l$ git commit -m "monthly mean and one day precipit"[0K[51G[?25h[?25l$ git commit -m "monthly mean and one day precipita"[0K[52G[?25h[?25l$ git commit -m "monthly mean and one day precipitat"[0K[53G[?25h[?25l$ git commit -m "monthly mean and one day precipitati"[0K[54G[?25h[?25l$ git commit -m "monthly mean and one day precipitatio"[0K[55G[?25h[?25l$ git commit -m "monthly mean and one day precipitation"[0K[56G[?25h[?25l$ git commit -m "monthly mean and one day precipitation "[0K[57G[?25h[?25l$ git commit -m "monthly mean and one day precipitation p"[0K[58G[?25h[?25l$ git commit -m "monthly mean and one day precipitation pl"[0K[59G[?25h[?25l$ git commit -m "monthly mean and one day precipitation plo"[0K[60G[?25h[?25l$ git commit -m "monthly mean and one day precipitation plot"[0K[61G[?25h[?25l
+[0K[?25h[master (root-commit) 4de202a] monthly mean and one day precipitation plot[0K[?25l
+ Committer: D352 <D352@czu.cz>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly. Run the[0K
+following command and follow the instructions in your editor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 18 files changed, 179 insertions(+)[0K
+ create mode 100644 .Rproj.user/F600286/console06/75F760D3[0K
+ create mode 100644 .Rproj.user/F600286/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/F600286/sources/prop/A955058F[0K
+ create mode 100644 .Rproj.user/F600286/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/F600286/sources/s-F31D525C/6C9688CE[0K
+ create mode 100644 .Rproj.user/F600286/sources/s-F31D525C/6C9688CE-content[0Ks
+[0K
+ create mode 100644 .Rproj.user/F600286/sources/s-F31D525C/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 R_GIS.Rproj[0K
+ create mode 100644 data/NLD_adm0.cpg[0K
+ create mode 100644 data/NLD_adm0.csv[0K
+ create mode 100644 data/NLD_adm0.dbf[0K
+ create mode 100644 data/NLD_adm0.prj[0K
+ create mode 100644 data/NLD_adm0.shp[0K
+ create mode 100644 data/NLD_adm0.shx[0K
+ create mode 100644 data/gpm_nl.rdata[0K
+ create mode 100644 prcp.R[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/F600286/console06/75F760D3[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/F600286/console06/75F760D3[0m[0K
+        [0;31mmodified:   .Rproj.user/F600286/sources/prop/A955058F[0m[0K
+        [0;31mmodified:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE[0m[0K
+        [0;31mmodified:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE-content[0Ks
+[0m[0K
+        [0;31mmodified:   prcp.R[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25herror: open(".Rproj.user/F600286/console06/75F760D3"): Permission denied[0K[?25l
+error: unable to index file .Rproj.user/F600286/console06/75F760D3[0K
+fatal: updating files failed[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git add[0K[11G[?25h[?25l
+[0K[?25hNothing specified, nothing added.[0K[?25l
+Maybe you wanted to say 'git add .'?[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add p[0K[?25hr[0Kc[0Kp[0K.[0KR[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .Rproj.user[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/F600286/sources/prop/A9[0K5[?25l
+5058F.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/F600286/sources/s-F31D5[0K2
+5C/6C9688CE.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/F600286/sources/s-F31D5[0K2
+5C/6C9688CE-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes to be committed:[0K
+  (use "git reset HEAD <file>..." to unstage)[0K
+[0K
+        [0;32mmodified:   .Rproj.user/F600286/console06/75F760D3[0m[0K
+        [0;32mmodified:   .Rproj.user/F600286/sources/prop/A955058F[0m[0K
+        [0;32mmodified:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE[0m[0K
+        [0;32mmodified:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE-content[0Ks
+[0m[0K
+        [0;32mmodified:   prcp.R[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/F600286/console06/75F760D3[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes to be committed:[0K
+  (use "git reset HEAD <file>..." to unstage)[0K
+[0K
+        [0;32mmodified:   .Rproj.user/F600286/console06/75F760D3[0m[0K
+        [0;32mmodified:   .Rproj.user/F600286/sources/prop/A955058F[0m[0K
+        [0;32mmodified:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE[0m[0K
+        [0;32mmodified:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE-content[0Ks
+[0m[0K
+        [0;32mmodified:   prcp.R[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/F600286/console06/75F760D3[0m[0K
+        [0;31mmodified:   .Rproj.user/F600286/sources/prop/A955058F[0m[0K
+        [0;31mmodified:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE[0m[0K
+        [0;31mmodified:   .Rproj.user/F600286/sources/s-F31D525C/6C9688CE-content[0Ks
+[0m[0K
+        [0;31mmodified:   prcp.R[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hs[0Ks[0K[?25l$ git as[0K[10G[?25h[9G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add p[0K[?25hr[0Kc[0Kp[0K.[0KR[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-14 [0;35m [0;33m~/Documents/R_GIS[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25hR[0Kp[0Kr[0Ko[0Kj[0K.[0Ku[0Ks[0Ke[0Kr[0K[?25l
+[0K[?25h
